@@ -1,0 +1,9 @@
+3
+7
+5
+1
+{a,b,d,e,b,c}
+{a,d,b,e}
+{a,c,b,e,f,g}
+{b,c,d,c}
+{d,c,e,f}

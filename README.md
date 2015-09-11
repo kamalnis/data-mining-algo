@@ -1,4 +1,6 @@
-# data-mining-algo
-# data-mining-algo
-# data-mining-algo
-# data-mining-algo
+# data-mining-algorithms
+Apriori
+--------
+
+FpGrowth
+--------
